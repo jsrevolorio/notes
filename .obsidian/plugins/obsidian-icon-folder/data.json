@@ -29,5 +29,11 @@
     "iconIdentifier": ":",
     "lucideIconPackType": "native",
     "debugMode": false
-  }
+  },
+  "2. Instalaciones": "LiFolder",
+  "3. Blog": "LiFolder",
+  "4. Comandos": "LiFolder",
+  "1. Apuntes": "LiFolder",
+  "1. Apuntes/Arquitectura de software": "LiStickyNote",
+  "1. Apuntes/Principios SOLID": "LiStickyNote"
 }

@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "91d63ae7c35df42a",
+        "id": "b27a3b66028c900a",
         "type": "tabs",
         "children": [
           {
-            "id": "830f442ff13b091e",
+            "id": "81f0ca5963b2fe70",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "1. Apuntes/Principios SOLID/1. S-SRP.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 410.5
+    "width": 282.5
   },
   "right": {
     "id": "2b5115ec5b47b0bb",
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1. Apuntes/Principios SOLID/1. S-SRP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "1. Apuntes/Principios SOLID/1. S-SRP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "1. Apuntes/Principios SOLID/1. S-SRP.md"
+              }
             }
           },
           {
@@ -144,25 +152,32 @@
       "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "830f442ff13b091e",
+  "active": "81f0ca5963b2fe70",
   "lastOpenFiles": [
+    "1. Apuntes/Principios SOLID/Principios SOLID.md",
+    "1. Apuntes/Arquitectura de software/Arquitectura de software.md",
+    "1. Apuntes/Principios SOLID/1. S-SRP.md",
+    "1. Apuntes/Principios SOLID",
+    "1. Apuntes/Arquitectura de software",
+    "1. Apuntes",
+    "1. Cursos/Principios Solid",
+    "1. Cursos/Arquitectura de software",
+    "4. Comandos",
+    "3. Blog",
+    "2. Instalaciones",
+    "1. Cursos",
     "Sin título.canvas",
     "Sin nombre/Sin título.md",
-    "Sin nombre",
     "Excalidraw/Scripts/Downloaded/Create DrawIO file.svg",
     "Excalidraw/Scripts/Downloaded/Create DrawIO file.md",
     "Sin nombre/Drawing 2024-10-13 09.58.16.excalidraw.md",
     "Excalidraw/Scripts/Downloaded/Change shape of selected elements.svg",
     "Excalidraw/Scripts/Downloaded/Change shape of selected elements.md",
     "Excalidraw/Scripts/Downloaded",
-    "Excalidraw/Scripts",
-    "Excalidraw",
     "ons/Drawing 2024-10-13 09.18.44.excalidraw.md",
-    "Excalidraw/Drawing 2024-10-13 09.28.48.excalidraw.md",
-    "ons"
+    "Excalidraw/Drawing 2024-10-13 09.28.48.excalidraw.md"
   ]
 }

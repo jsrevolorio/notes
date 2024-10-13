@@ -6,5 +6,21 @@
       ],
       "key": "I"
     }
+  ],
+  "code-styler:fold-all": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "C"
+    }
+  ],
+  "code-language-completer:insert-code-block-custom": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "C"
+    }
   ]
 }
