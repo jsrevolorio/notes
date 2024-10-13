@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ff6598c6873dcb8b",
+        "id": "91d63ae7c35df42a",
         "type": "tabs",
         "children": [
           {
-            "id": "3cb331bbc8f87852",
+            "id": "830f442ff13b091e",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -65,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 410.5
   },
   "right": {
     "id": "2b5115ec5b47b0bb",
@@ -120,13 +120,21 @@
               "type": "outline",
               "state": {}
             }
+          },
+          {
+            "id": "32193a3bb8755555",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -135,9 +143,26 @@
       "canvas:Crear nuevo lienzo": false,
       "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false
+      "command-palette:Abrir paleta de comandos": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3cb331bbc8f87852",
-  "lastOpenFiles": []
+  "active": "830f442ff13b091e",
+  "lastOpenFiles": [
+    "Sin título.canvas",
+    "Sin nombre/Sin título.md",
+    "Sin nombre",
+    "Excalidraw/Scripts/Downloaded/Create DrawIO file.svg",
+    "Excalidraw/Scripts/Downloaded/Create DrawIO file.md",
+    "Sin nombre/Drawing 2024-10-13 09.58.16.excalidraw.md",
+    "Excalidraw/Scripts/Downloaded/Change shape of selected elements.svg",
+    "Excalidraw/Scripts/Downloaded/Change shape of selected elements.md",
+    "Excalidraw/Scripts/Downloaded",
+    "Excalidraw/Scripts",
+    "Excalidraw",
+    "ons/Drawing 2024-10-13 09.18.44.excalidraw.md",
+    "Excalidraw/Drawing 2024-10-13 09.28.48.excalidraw.md",
+    "ons"
+  ]
 }
