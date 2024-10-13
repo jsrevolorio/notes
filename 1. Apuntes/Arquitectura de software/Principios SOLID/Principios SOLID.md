@@ -14,12 +14,8 @@ En resumen, los principios SOLID son clave para desarrollar software robusto y e
 
 ## Índice
 
+---
 
-
-
-
-
-
-
-
+1.  ⛩️ [[1. S-SRP | Principio de responsabilidad única]]
+2.  🧨 
 

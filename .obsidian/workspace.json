@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "b27a3b66028c900a",
+        "id": "324f3d921bb97806",
         "type": "tabs",
         "children": [
           {
-            "id": "81f0ca5963b2fe70",
+            "id": "6cc18f589640e20b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. Apuntes/Principios SOLID/1. S-SRP.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Apuntes/Principios SOLID/1. S-SRP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Apuntes/Principios SOLID/1. S-SRP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "1. Apuntes/Principios SOLID/1. S-SRP.md"
-              }
+              "state": {}
             }
           },
           {
@@ -155,12 +147,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "81f0ca5963b2fe70",
+  "active": "32193a3bb8755555",
   "lastOpenFiles": [
-    "1. Apuntes/Principios SOLID/Principios SOLID.md",
+    "1. Apuntes/Arquitectura de software/Principios SOLID/Principios SOLID.md",
+    "1. Apuntes/Arquitectura de software/Principios SOLID/1. S-SRP.md",
+    "Sin título.canvas",
     "1. Apuntes/Arquitectura de software/Arquitectura de software.md",
-    "1. Apuntes/Principios SOLID/1. S-SRP.md",
-    "1. Apuntes/Principios SOLID",
+    "1. Apuntes/Arquitectura de software/Principios SOLID",
     "1. Apuntes/Arquitectura de software",
     "1. Apuntes",
     "1. Cursos/Principios Solid",
@@ -169,7 +162,6 @@
     "3. Blog",
     "2. Instalaciones",
     "1. Cursos",
-    "Sin título.canvas",
     "Sin nombre/Sin título.md",
     "Excalidraw/Scripts/Downloaded/Create DrawIO file.svg",
     "Excalidraw/Scripts/Downloaded/Create DrawIO file.md",
