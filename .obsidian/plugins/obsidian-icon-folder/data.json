@@ -6,6 +6,8 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "📂",
+      "📓",
       "LiStickyNote",
       "LiFolder"
     ],
@@ -30,10 +32,14 @@
     "lucideIconPackType": "native",
     "debugMode": false
   },
-  "2. Instalaciones": "LiFolder",
-  "3. Blog": "LiFolder",
-  "4. Comandos": "LiFolder",
-  "1. Apuntes": "LiFolder",
-  "1. Apuntes/Arquitectura de software": "LiStickyNote",
-  "1. Apuntes/Arquitectura de software/Principios SOLID": "LiStickyNote"
+  "2. Instalaciones": "📂",
+  "3. Blog": "📂",
+  "4. Comandos": "📂",
+  "1. Apuntes": "📂",
+  "1. Apuntes/Arquitectura de software": "📓",
+  "1. Apuntes/Arquitectura de software/Principios SOLID": "LiStickyNote",
+  "1. Apuntes/REST": "📓",
+  "4. Comandos/Docker": "📓",
+  "4. Comandos/Terminal": "📓",
+  "2. Instalaciones/Docker.md": "📓"
 }
